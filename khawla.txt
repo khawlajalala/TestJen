@@ -1,0 +1,17 @@
+ Le volume dans le lecteur C n'a pas de nom.
+ Le num‚ro de s‚rie du volume est AE32-5242
+
+ R‚pertoire de C:\Users\kjalala\Documents\Git\src\test
+
+18/12/2017  12:26    <DIR>          .
+18/12/2017  12:26    <DIR>          ..
+15/12/2017  10:27                12 .gitignore
+18/12/2017  09:56    <DIR>          .metadata
+18/12/2017  10:15               416 GitTest.class
+14/12/2017  15:49               165 GitTest.java
+18/12/2017  12:05                11 jenkins.txt
+18/12/2017  12:26                 0 khawla.txt
+18/12/2017  09:56    <DIR>          RemoteSystemsTempFiles
+18/12/2017  12:14                24 test2.txt
+               6 fichier(s)              628 octets
+               4 R‚p(s)  294ÿ461ÿ927ÿ424 octets libres
